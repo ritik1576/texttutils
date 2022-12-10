@@ -47,7 +47,7 @@ function App() {
               heading=" Enter the text to analyze"
               mode={mode}
             />
-          
+          <About/>
       </div>
    
     </>
